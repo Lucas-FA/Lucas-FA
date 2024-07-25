@@ -4,5 +4,5 @@
 
 <div>
   <p>Estudante,</p>
-  <p>Atualmente cursando o 3º semestre do Tecnólogo em Jogos Digitais na Fatec São Caetano do Sul - Antonio Russo e também o 1º semestre do Técnico em Jogos Digitais na Escola SENAI de Informática</p>
+  <p>Atualmente cursando o 4º semestre do Tecnólogo em Jogos Digitais na Fatec São Caetano do Sul - Antonio Russo e também o 1º semestre do Técnico em Jogos Digitais na Escola SENAI de Informática</p>
 </div>
